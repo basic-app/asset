@@ -5,5 +5,8 @@
         "psr-4": {
             "BasicApp\\Asset\\": ""
         }
+    },
+    "require": {
+        "basic-app/meta-helper": "*"
     }
 }
