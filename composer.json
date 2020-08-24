@@ -1,0 +1,9 @@
+{
+    "name": "basic-app/asset",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\Asset\\": ""
+        }
+    }
+}
